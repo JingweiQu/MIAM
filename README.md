@@ -1,7 +1,7 @@
 # Multi-granularity Correlation Refinement for Semantic Correspondence
 This repository is the implementation of the paper: 
 
-Zhen Liang, Enyu Che, Guoqiang Xiao, and Jingwei Qu. [Multi-granularity Correlation Refinement for Semantic Correspondence](https://jingweiqu.github.io/project/MIAM/index.html). ICME, 2024.
+Zhen Liang, Enyu Che, Guoqiang Xiao, and Jingwei Qu. [Multi-granularity Correlation Refinement for Semantic Correspondence](https://jingweiqu.github.io/project/MIAM/index.html). *ICME*, 2024.
 
 It contains the training and evaluation procedures in the paper.
 
