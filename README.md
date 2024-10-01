@@ -22,6 +22,7 @@ pip install tensorboardX termcolor timm tqdm requests pandas
  author={Liang, Zhen and Che, Enyu and Xiao, Guoqiang and Qu, Jingwei},
  booktitle={Proceedings of the IEEE International Conference on Multimedia & Expo},
  year={2024},
+ doi={10.1109/ICME57554.2024.10687853},
  publisher={IEEE},
  address={New York}
 }
